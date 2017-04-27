@@ -1,0 +1,10 @@
+2016-10-14 00:18:57,190 [5] INFO  UnityWebApiSample.Controllers.HomeController Home.Index entered.
+2016-10-14 00:18:57,268 [5] INFO  UnitySampleBL.Implements.Manager Manager.WhoCalledMe
+2016-10-14 00:19:40,671 [5] DEBUG UnityWebApiSample.Controllers.HomeController GetAllEventTypes called...
+2016-10-14 00:19:40,687 [5] INFO  UnitySampleBL.Implements.Lead Lead.WhoCalledMe
+2016-10-14 00:27:05,003 [10] INFO  UnityWebApiSample.Controllers.HomeController Home.Index entered.
+2016-10-14 00:27:05,018 [10] INFO  UnitySampleBL.Implements.Manager Manager.WhoCalledMe
+2016-10-14 00:28:00,306 [10] DEBUG UnityWebApiSample.Controllers.HomeController GetAllEventTypes called...
+2016-10-14 00:28:00,309 [10] ERROR UnityWebApiSample.Controllers.HomeController Error in method GetAllEventTypes
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnityWebApiSample.Controllers.TestApiController.GetAllCampaignEventTypes() in D:\GIT\2015\SmallPOC\UnityAndLog4Net\UnityWebApiSample\Controllers\TestApiController.cs:line 30

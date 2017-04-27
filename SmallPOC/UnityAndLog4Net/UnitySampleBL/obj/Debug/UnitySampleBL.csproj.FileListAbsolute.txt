@@ -1,0 +1,7 @@
+D:\GIT\2015\SmallPOC\UnityAndLog4Net\UnitySampleBL\bin\Debug\UnitySampleBL.dll
+D:\GIT\2015\SmallPOC\UnityAndLog4Net\UnitySampleBL\bin\Debug\UnitySampleBL.pdb
+D:\GIT\2015\SmallPOC\UnityAndLog4Net\UnitySampleBL\bin\Debug\log4net.dll
+D:\GIT\2015\SmallPOC\UnityAndLog4Net\UnitySampleBL\bin\Debug\log4net.xml
+D:\GIT\2015\SmallPOC\UnityAndLog4Net\UnitySampleBL\obj\Debug\UnitySampleBL.csprojResolveAssemblyReference.cache
+D:\GIT\2015\SmallPOC\UnityAndLog4Net\UnitySampleBL\obj\Debug\UnitySampleBL.dll
+D:\GIT\2015\SmallPOC\UnityAndLog4Net\UnitySampleBL\obj\Debug\UnitySampleBL.pdb

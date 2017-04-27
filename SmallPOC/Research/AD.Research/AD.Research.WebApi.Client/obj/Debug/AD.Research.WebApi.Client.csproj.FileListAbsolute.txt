@@ -1,0 +1,8 @@
+D:\GIT\2015\SmallPOC\Research\AD.Research\AD.Research.WebApi.Client\bin\Debug\AD.Research.WebApi.Client.dll
+D:\GIT\2015\SmallPOC\Research\AD.Research\AD.Research.WebApi.Client\bin\Debug\AD.Research.WebApi.Client.pdb
+D:\GIT\2015\SmallPOC\Research\AD.Research\AD.Research.WebApi.Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\GIT\2015\SmallPOC\Research\AD.Research\AD.Research.WebApi.Client\bin\Debug\Newtonsoft.Json.dll
+D:\GIT\2015\SmallPOC\Research\AD.Research\AD.Research.WebApi.Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\GIT\2015\SmallPOC\Research\AD.Research\AD.Research.WebApi.Client\obj\Debug\AD.Research.WebApi.Client.csprojResolveAssemblyReference.cache
+D:\GIT\2015\SmallPOC\Research\AD.Research\AD.Research.WebApi.Client\obj\Debug\AD.Research.WebApi.Client.dll
+D:\GIT\2015\SmallPOC\Research\AD.Research\AD.Research.WebApi.Client\obj\Debug\AD.Research.WebApi.Client.pdb
